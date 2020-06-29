@@ -7,4 +7,4 @@ The written parts answers have been compiled to file [p1_key.pdf](./p1_key.pdf),
 
 # About
 
-Some of these solutions are learned from web. They can not be exactly right, but hope they help.
+Some of these solutions are learned from web. They may not be definitely right.
